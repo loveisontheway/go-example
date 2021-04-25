@@ -59,7 +59,7 @@ Go Example project for Golang. 个人学习Go语言案例项目。
 ## 项目包说明
 | `package name` | `description` |
 | :------ | :------ |
-| base | Go基础（变量、常量、数组、切片、指针、Map、结构体） |
+| basic | Go基础（变量、常量、数组、切片、指针、Map、结构体） |
 | concurrency | Go并发编程（goroutine、runtime、channel、定时器、select、Sync等） |
 | db | 数据操作（mysql、redis） |
 | flow | 流程控制（if、switch、select、for、range） |
