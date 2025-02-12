@@ -1,4 +1,4 @@
-go-example ![alt tag](https://api.travis-ci.org/phishman3579/java-algorithms-implementation.svg?branch=master)
+go-example [![](https://img.shields.io/badge/1.0.0-blue.svg)]()
 ==============================
 
 Go Example project for Golang. 个人学习Go语言案例项目。
